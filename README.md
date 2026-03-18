@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Juanjo] 👋
 
 ### 📱 React Native & Firebase Developer | 🎓 CS50x Harvard Student
 
