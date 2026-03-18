@@ -36,8 +36,8 @@ Soy un desarrollador enfocado en soluciones móviles con **React Native** y **Fi
 ---
 
 ### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=dark)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=JuanjoMedina23&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjoMedina23&layout=compact&theme=dark)
 
 ---
 
